@@ -137,7 +137,7 @@ a:hover {
   background: -webkit-linear-gradient(#C7D3DC,#5B798E);
   background: -moz-linear-gradient(#C7D3DC,#5B798E);
   background: -o-linear-gradient(#C7D3DC,#5B798E);
-  background: linear-gradient(#C7D3DC,#5B798E);
+  background: linear-gradient(#F90101,#F2B50F);
 
   -webkit-transition: background 1s ease-out;
   -moz-transition: background 1s ease-out;
